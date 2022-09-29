@@ -1,0 +1,28 @@
+#myCanvas2{
+    /* position: absolute; */
+    top: 8px;
+    left: 8px;
+    z-index: -1;
+    display: none
+}
+
+#myCanvas{
+    /* position: absolute; */
+    top: 8px;
+    left: 8px;
+    z-index: 1
+}
+
+div{
+    position: relative;
+    left:40%;
+}
+
+h1{
+    color: blue;
+    font-size: 2rem;
+}
+
+p{
+    color: brown;
+}
